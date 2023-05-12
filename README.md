@@ -10,7 +10,7 @@ This Python program allows you to manage the inventory of a laptop shop. You can
 2. Navigate to the directory where the program files are stored.
 3. Run the following command to start the program:
 ```bash
-python laptop_shop.py
+python Laptop_shope_management_system.py
 ```
 4.You should see the main menu displayed in your terminal:
 ```bash
